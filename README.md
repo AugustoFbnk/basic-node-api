@@ -2,7 +2,7 @@
 Basic node JS API
 
 
-Run NPM Install
+First, run NPM Install to download all dependencies.
 
 Configurations:
 in: \src\config.js, set these variables or remove the features that need them (remove the code snippets that reference them):
