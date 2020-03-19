@@ -14,4 +14,4 @@ in: \src\config.js, set these variables or remove the features that need them (r
   sendgridKey: key from e-mail sender (https://sendgrid.com/)
 
 
-Developed based in https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn
+Developed based in https://github.com/balta-io/1972
