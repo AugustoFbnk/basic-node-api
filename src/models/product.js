@@ -37,6 +37,10 @@ const schema = new Schema({
         type: String,
         required: false,
         trim: true
+    },
+    image_name: {
+        type: String,
+        required: false,
     }
 })
 
