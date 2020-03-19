@@ -1,8 +1,7 @@
-global.SALT_KEY = 'private key';
+global.SALT_KEY = '';
 global.EMAIL_TMPL = '<strong>{0}</strong>';
 
 module.exports = {
-    connectionString: 'connection string do banco',
-    sendgridKey: 'key send grid (envio de e-mails)',
-    containerConnectionString: 'key do storage - (Não usado ainda)'
+    connectionString: '',
+    sendgridKey: '',
 }
